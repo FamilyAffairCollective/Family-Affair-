@@ -1,0 +1,75 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+.socials a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+}
+
+section {
+    padding: 20px 0;
+}
+
+h2 {
+    color: #333;
+}
+
+.service {
+    margin: 20px 0;
+}
+
+.gallery .images img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.price-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.price-list li {
+    font-size: 18px;
+    color: #555;
+}
+
+.contact a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
